@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//ClusterHeadReconfiguration/BackupBroadcast.c=UTF-8
+encoding//ClusterHeadReconfiguration/ClusterHeadReconfiguration.c=UTF-8
+encoding//ClusterNodesScheduling/ClusterNodesScheduling.c=UTF-8
+encoding//DynamicGroupHeadElection/DynamicGroupHeadElection.c=UTF-8
+encoding//init/init.c=UTF-8
+encoding//init/init.h=UTF-8
+encoding//init/main.c=UTF-8
+encoding//location/readPosition.c=UTF-8
+encoding//packet/receiveFrame.c=UTF-8
+encoding//packet/receivePacket.c=UTF-8
+encoding//packet/sendFrame.c=UTF-8

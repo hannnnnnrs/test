@@ -1,0 +1,1 @@
+如果不采用sendPacket调用receivePacket的话，继续TDMA模块，在时隙调用收发函数

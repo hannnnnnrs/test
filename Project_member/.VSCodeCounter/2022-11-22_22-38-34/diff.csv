@@ -1,0 +1,11 @@
+"filename", "language", "C++", "C", "comment", "blank", "total"
+"f:\Project\ClusterHeadReconfiguration\BackupBroadcast.c", "C", 0, 13, 0, 1, 14
+"f:\Project\ClusterHeadReconfiguration\BackupBroadcast.h", "C++", 5, 0, 0, 4, 9
+"f:\Project\ClusterHeadReconfiguration\ClusterHeadReconfiguration.c", "C", 0, 52, 2, 5, 59
+"f:\Project\ClusterHeadReconfiguration\ClusterHeadReconfiguration.h", "C++", 7, 0, 0, 4, 11
+"f:\Project\init\init.c", "C", 0, -144, -1, -17, -162
+"f:\Project\init\init.h", "C", 0, -51, -3, -13, -67
+"f:\Project\init\main.c", "C", 0, -42, -14, -6, -62
+"f:\Project\init\query.c", "C", 0, -16, 0, -1, -17
+"f:\Project\init\query.h", "C++", -4, 0, 0, -3, -7
+"Total", "-", 8, -188, -16, -26, -222

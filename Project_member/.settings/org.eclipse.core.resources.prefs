@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//init/init.c=UTF-8
+encoding//init/init.h=UTF-8
+encoding//location/readPosition.c=UTF-8
+encoding//packet/receiveFrame.c=UTF-8
+encoding//packet/receivePacket.c=UTF-8
+encoding//packet/sendFrame.c=UTF-8
